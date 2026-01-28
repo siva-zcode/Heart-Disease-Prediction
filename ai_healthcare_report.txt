@@ -1,0 +1,17 @@
+
+Healthcare Data Insight Report:
+
+- Total Patients: 302
+- Disease Prevalence: 54.30%
+- Average Age: 54.4
+- High Cholesterol Cases: 151
+
+Key Observations:
+- Middle-aged and senior groups show higher disease prevalence.
+- Cholesterol and age are strongly correlated with heart disease.
+- Males show slightly higher risk levels.
+
+Recommendations:
+- Promote early screening for patients above 45.
+- Lifestyle monitoring for high-cholesterol patients.
+- Awareness programs for high-risk groups.
